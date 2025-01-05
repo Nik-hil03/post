@@ -1,1 +1,1 @@
-printf("hello world kkkk")
+print("hello world kkkk")
